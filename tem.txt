@@ -1,0 +1,17 @@
+ada_best_estimator
+gradBoost_all -> depth 11 and estimator->425
+xgb_estimator   -> 146
+rf_all ->  depth 26, estimator -> 206 
+knn_neighbors  -> neighbour ->1
+nb_deafult
+his_all, -> best_depth->16, max_iter->440 
+
+
+
+
+
+
+
+
+
+
